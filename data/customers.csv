@@ -1,0 +1,181 @@
+CustomerID,CustomerName,Suburb,State,Segment,JoinDate,CreditLimit,Rep
+C1001,North Espresso,Fitzroy,VIC,Cafe,2021-10-20,5000,Leo Marchetti
+C1002,Kettle Bakery,Parramatta,NSW,Cafe,2024-06-05,2000,Leo Marchetti
+C1003,North Hotel,Norwood,SA,Hotel,2024-10-18,20000,Grace Okafor
+C1004,Wattle Hotel,Sydney,NSW,Hotel,2022-02-02,10000,Leo Marchetti
+C1005,Kettle Eatery,Norwood,SA,Restaurant,2020-08-31,2000,Grace Okafor
+C1006,North Canteen,Unley,SA,Office,2022-12-23,2000,Grace Okafor
+C1007,Paper Eatery,Norwood,SA,Restaurant,2020-03-03,5000,Tom Walsh
+C1008,Corner Eatery,Victor Harbor,SA,Restaurant,2020-04-03,10000,Priya Nair
+C1009,Brass Co-working,Fitzroy,VIC,Office,2021-01-25,20000,Leo Marchetti
+C1010,Laneway Canteen,Prospect,SA,Office,2024-05-25,2000,Priya Nair
+C1011,Olive Diner,Adelaide,SA,Restaurant,2020-07-26,10000,Grace Okafor
+C1012,Olive Espresso,Prospect,SA,Cafe,2022-06-24,2000,Tom Walsh
+C1013,Morning Diner,Prospect,SA,Restaurant,2022-09-23,5000,Grace Okafor
+C1014,Ember Eatery,Mount Barker,SA,Restaurant,2021-10-26,5000,Grace Okafor
+C1015,Brass Bakery,Adelaide,SA,Cafe,2023-10-05,5000,Grace Okafor
+C1016,Salt Roasters,Glenelg,SA,Cafe,2019-07-24,20000,Grace Okafor
+C1017,Paper Deli,Unley,SA,Restaurant,2021-02-23,10000,Grace Okafor
+C1018,Juniper Canteen,Norwood,SA,Office,2023-08-23,20000,Grace Okafor
+C1019,Brass Bistro,Fitzroy,VIC,Restaurant,2019-12-18,20000,Leo Marchetti
+C1020,Wattle Cafe,Victor Harbor,SA,Cafe,2020-09-08,5000,Grace Okafor
+C1021,Copper Eatery,Glenelg,SA,Restaurant,2019-01-29,5000,Grace Okafor
+C1022,Brass Eatery,Geelong,VIC,Restaurant,2022-05-20,10000,Leo Marchetti
+C1023,Corner Deli,Unley,SA,Restaurant,2024-08-25,10000,Tom Walsh
+C1024,Tin Hotel,Melbourne,VIC,Hotel,2022-04-10,20000,Leo Marchetti
+C1025,Cobalt Espresso,Ballarat,VIC,Cafe,2023-11-19,2000,Leo Marchetti
+C1026,Laneway Hotel,Norwood,SA,Hotel,2023-08-05,2000,Priya Nair
+C1027,Tin Bistro,Brunswick,VIC,Restaurant,2020-12-04,5000,Leo Marchetti
+C1028,Velvet Bakery,Brunswick,VIC,Cafe,2019-10-09,2000,Leo Marchetti
+C1029,Ember Cafe,Victor Harbor,SA,Cafe,2022-04-29,2000,Tom Walsh
+C1030,Brass Canteen,Brunswick,VIC,Office,2024-04-13,5000,Leo Marchetti
+C1031,Laneway Roasters,Adelaide,SA,Cafe,2019-09-16,5000,Grace Okafor
+C1032,Wattle Co-working,Glenelg,SA,Office,2022-05-07,20000,Priya Nair
+C1033,Ironbark Diner,Geelong,VIC,Restaurant,2024-05-02,2000,Leo Marchetti
+C1034,Paper Hotel,Brunswick,VIC,Hotel,2024-01-19,2000,Leo Marchetti
+C1035,Pepper Diner,Geelong,VIC,Restaurant,2021-06-15,2000,Leo Marchetti
+C1036,Bluebird Bakery,Perth,WA,Cafe,2020-04-19,2000,Hannah Lee
+C1037,Velvet Kitchen,Adelaide,SA,Restaurant,2024-06-25,2000,Grace Okafor
+C1038,Copper Hotel,Mawson Lakes,SA,Hotel,2023-01-02,2000,Priya Nair
+C1039,Fig Co-working,Norwood,SA,Office,2020-02-07,10000,Priya Nair
+C1040,Wattle Eatery,Prospect,SA,Restaurant,2023-09-08,5000,Tom Walsh
+C1041,Copper Cafe,Fremantle,WA,Cafe,2019-03-08,2000,Hannah Lee
+C1042,Pepper Eatery,Norwood,SA,Restaurant,2021-01-03,5000,Priya Nair
+C1043,Pepper Deli,Fremantle,WA,Restaurant,2019-06-11,10000,Hannah Lee
+C1044,Wattle Espresso,Wollongong,NSW,Cafe,2020-10-11,10000,Leo Marchetti
+C1045,Harbour Diner,Sydney,NSW,Restaurant,2024-11-15,2000,Leo Marchetti
+C1046,Bramble Hotel,Ballarat,VIC,Hotel,2019-06-24,5000,Leo Marchetti
+C1047,Olive Roasters,Victor Harbor,SA,Cafe,2022-04-18,5000,Grace Okafor
+C1048,Salt Canteen,Melbourne,VIC,Office,2021-12-28,20000,Leo Marchetti
+C1049,Tin Espresso,Victor Harbor,SA,Cafe,2021-02-19,10000,Grace Okafor
+C1050,Magpie Hotel,Mount Barker,SA,Hotel,2023-06-19,10000,Tom Walsh
+C1051,Kettle Co-working,Prospect,SA,Office,2020-04-09,10000,Grace Okafor
+C1052,Lane Bistro,Unley,SA,Restaurant,2022-04-22,2000,Priya Nair
+C1053,Pepper Bakery,Adelaide,SA,Cafe,2020-09-09,2000,Priya Nair
+C1054,Juniper Deli,Ballarat,VIC,Restaurant,2020-01-24,5000,Leo Marchetti
+C1055,Velvet Eatery,Brunswick,VIC,Restaurant,2022-03-12,5000,Leo Marchetti
+C1056,Red Gum Canteen,Perth,WA,Office,2022-04-26,10000,Hannah Lee
+C1057,Kettle Cafe,Mount Barker,SA,Cafe,2024-03-08,5000,Grace Okafor
+C1058,Red Gum Bakery,Stirling,SA,Cafe,2023-01-26,5000,Grace Okafor
+C1059,Juniper Eatery,Sydney,NSW,Restaurant,2024-09-03,20000,Leo Marchetti
+C1060,Stone Kitchen,Norwood,SA,Restaurant,2021-12-19,2000,Priya Nair
+C1061,North Kitchen,Port Adelaide,SA,Restaurant,2024-12-12,2000,Priya Nair
+C1062,Corner Kitchen,Perth,WA,Restaurant,2022-09-24,10000,Hannah Lee
+C1063,Copper Bakery,Fremantle,WA,Cafe,2024-11-07,5000,Hannah Lee
+C1064,Copper Deli,Unley,SA,Restaurant,2021-08-21,10000,Grace Okafor
+C1065,Bramble Espresso,Unley,SA,Cafe,2019-02-06,10000,Tom Walsh
+C1066,Copper Canteen,Adelaide,SA,Office,2024-08-15,20000,Priya Nair
+C1067,Laneway Diner,Port Adelaide,SA,Restaurant,2022-07-19,2000,Tom Walsh
+C1068,Brass Roasters,Prospect,SA,Cafe,2023-07-14,2000,Grace Okafor
+C1069,Paper Kitchen,Melbourne,VIC,Restaurant,2024-04-28,10000,Leo Marchetti
+C1070,Bramble Diner,Perth,WA,Restaurant,2022-02-17,10000,Hannah Lee
+C1071,Quarry Bakery,Perth,WA,Cafe,2021-08-01,10000,Hannah Lee
+C1072,Bramble Eatery,Unley,SA,Restaurant,2019-10-05,5000,Priya Nair
+C1073,Tin Diner,Geelong,VIC,Restaurant,2021-01-05,2000,Leo Marchetti
+C1074,Magpie Canteen,Unley,SA,Office,2020-12-02,5000,Priya Nair
+C1075,Tin Bakery,Adelaide,SA,Cafe,2019-04-21,2000,Priya Nair
+C1076,North Bistro,Prospect,SA,Restaurant,2024-04-22,10000,Tom Walsh
+C1077,Harbour Espresso,Stirling,SA,Cafe,2022-02-25,2000,Tom Walsh
+C1078,Saltbush Kitchen,Parramatta,NSW,Restaurant,2023-12-16,5000,Leo Marchetti
+C1079,Brass Diner,Norwood,SA,Restaurant,2023-06-26,2000,Tom Walsh
+C1080,Magpie Eatery,Newtown,NSW,Restaurant,2023-11-24,2000,Hannah Lee
+C1081,Bramble Bistro,Port Adelaide,SA,Restaurant,2023-02-03,10000,Grace Okafor
+C1082,Bramble Bakery,Wollongong,NSW,Cafe,2021-10-16,20000,Hannah Lee
+C1083,Brass Deli,Fremantle,WA,Restaurant,2024-06-12,2000,Hannah Lee
+C1084,Saltbush Hotel,Ballarat,VIC,Hotel,2022-03-03,5000,Leo Marchetti
+C1085,Tin Kitchen,Wollongong,NSW,Restaurant,2019-11-24,10000,Hannah Lee
+C1086,Morning Cafe,Prospect,SA,Cafe,2019-02-22,5000,Priya Nair
+C1087,Velvet Roasters,Glenelg,SA,Cafe,2020-09-19,5000,Tom Walsh
+C1088,Stone Hotel,Glenelg,SA,Hotel,2023-08-29,10000,Grace Okafor
+C1089,Paper Espresso,Glenelg,SA,Cafe,2019-07-24,10000,Priya Nair
+C1090,Fig Deli,Unley,SA,Restaurant,2024-05-07,5000,Tom Walsh
+C1091,Harbour Cafe,Victor Harbor,SA,Cafe,2021-11-03,2000,Grace Okafor
+C1092,Harbour Eatery,Mawson Lakes,SA,Restaurant,2020-06-28,20000,Tom Walsh
+C1093,Tin Co-working,Unley,SA,Office,2022-08-04,5000,Grace Okafor
+C1094,Corner Diner,Glenelg,SA,Restaurant,2023-12-26,5000,Priya Nair
+C1095,Sunday Espresso,Port Adelaide,SA,Cafe,2021-05-15,2000,Tom Walsh
+C1096,Stone Cafe,Fitzroy,VIC,Cafe,2020-11-24,10000,Leo Marchetti
+C1097,Ember Diner,Glenelg,SA,Restaurant,2024-03-19,20000,Priya Nair
+C1098,Juniper Diner,Glenelg,SA,Restaurant,2019-02-26,10000,Grace Okafor
+C1099,Ironbark Canteen,Glenelg,SA,Office,2022-06-03,2000,Priya Nair
+C1100,Saltbush Eatery,Fitzroy,VIC,Restaurant,2023-10-24,2000,Leo Marchetti
+C1101,Ironbark Espresso,Stirling,SA,Cafe,2019-05-10,20000,Grace Okafor
+C1102,Harbour Bistro,Ballarat,VIC,Restaurant,2019-06-13,2000,Leo Marchetti
+C1103,Bluebird Deli,Glenelg,SA,Restaurant,2019-11-16,10000,Grace Okafor
+C1104,Bluebird Roasters,Unley,SA,Cafe,2021-06-16,10000,Priya Nair
+C1105,Stone Eatery,Sydney,NSW,Restaurant,2021-12-22,2000,Leo Marchetti
+C1106,Copper Co-working,Victor Harbor,SA,Office,2022-08-26,5000,Grace Okafor
+C1107,Ember Deli,Mount Barker,SA,Restaurant,2020-03-30,5000,Tom Walsh
+C1108,Corner Roasters,Port Adelaide,SA,Cafe,2024-05-14,10000,Tom Walsh
+C1109,Sunday Kitchen,Newtown,NSW,Restaurant,2022-06-02,20000,Hannah Lee
+C1110,Bluebird Canteen,Mount Barker,SA,Office,2019-10-20,5000,Grace Okafor
+C1111,Lane Diner,Norwood,SA,Restaurant,2021-05-15,5000,Tom Walsh
+C1112,Laneway Espresso,Wollongong,NSW,Cafe,2020-12-12,10000,Hannah Lee
+C1113,Morning Co-working,Wollongong,NSW,Office,2020-07-20,10000,Leo Marchetti
+C1114,Little Espresso,Norwood,SA,Cafe,2020-01-25,5000,Priya Nair
+C1115,Bramble Cafe,Subiaco,WA,Cafe,2019-01-29,5000,Hannah Lee
+C1116,Kettle Bistro,Adelaide,SA,Restaurant,2022-07-31,5000,Priya Nair
+C1117,Lane Co-working,Brunswick,VIC,Office,2023-12-12,10000,Leo Marchetti
+C1118,Velvet Canteen,Glenelg,SA,Office,2019-08-24,2000,Grace Okafor
+C1119,Paper Bistro,Port Adelaide,SA,Restaurant,2024-05-11,2000,Priya Nair
+C1120,Corner Cafe,Glenelg,SA,Cafe,2021-04-22,2000,Priya Nair
+C1121,Tin Eatery,Sydney,NSW,Restaurant,2021-06-25,5000,Hannah Lee
+C1122,Saltbush Deli,Mawson Lakes,SA,Restaurant,2022-04-06,20000,Priya Nair
+C1123,Corner Hotel,Port Adelaide,SA,Hotel,2019-09-10,10000,Grace Okafor
+C1124,Kettle Deli,Fitzroy,VIC,Restaurant,2021-02-10,5000,Leo Marchetti
+C1125,Wattle Roasters,Perth,WA,Cafe,2023-05-19,10000,Hannah Lee
+C1126,Fig Canteen,Adelaide,SA,Office,2023-05-06,5000,Priya Nair
+C1127,Olive Canteen,Sydney,NSW,Office,2023-08-13,2000,Leo Marchetti
+C1128,Ironbark Co-working,Norwood,SA,Office,2020-02-18,2000,Tom Walsh
+C1129,Cobalt Canteen,Sydney,NSW,Office,2024-04-15,2000,Leo Marchetti
+C1130,Bluebird Eatery,Sydney,NSW,Restaurant,2022-08-12,10000,Hannah Lee
+C1131,Ember Espresso,Prospect,SA,Cafe,2022-02-02,10000,Grace Okafor
+C1132,Quarry Diner,Stirling,SA,Restaurant,2021-11-26,20000,Priya Nair
+C1133,Sunday Diner,Fitzroy,VIC,Restaurant,2024-08-07,10000,Leo Marchetti
+C1134,Red Gum Hotel,Port Adelaide,SA,Hotel,2020-05-20,5000,Priya Nair
+C1135,Stone Diner,Geelong,VIC,Restaurant,2019-03-04,2000,Leo Marchetti
+C1136,Harbour Bakery,Brunswick,VIC,Cafe,2019-10-09,10000,Leo Marchetti
+C1137,Lane Roasters,Adelaide,SA,Cafe,2021-09-11,5000,Grace Okafor
+C1138,Cobalt Kitchen,Unley,SA,Restaurant,2023-08-24,5000,Tom Walsh
+C1139,Wattle Deli,Stirling,SA,Restaurant,2022-03-10,10000,Tom Walsh
+C1140,North Bakery,Sydney,NSW,Cafe,2022-01-19,20000,Hannah Lee
+C1141,Bluebird Espresso,Fitzroy,VIC,Cafe,2022-10-21,20000,Leo Marchetti
+C1142,Brass Kitchen,Newtown,NSW,Restaurant,2023-02-05,10000,Leo Marchetti
+C1143,Morning Eatery,Newtown,NSW,Restaurant,2020-09-14,2000,Leo Marchetti
+C1144,Pepper Co-working,Newtown,NSW,Office,2021-09-07,10000,Hannah Lee
+C1145,Harbour Roasters,Sydney,NSW,Cafe,2024-10-12,5000,Leo Marchetti
+C1146,Kettle Roasters,Brunswick,VIC,Cafe,2024-04-06,5000,Leo Marchetti
+C1147,Little Deli,Fremantle,WA,Restaurant,2023-04-06,10000,Hannah Lee
+C1148,Paper Bakery,Parramatta,NSW,Cafe,2021-05-26,2000,Hannah Lee
+C1149,Salt Cafe,Adelaide,SA,Cafe,2022-06-17,20000,Tom Walsh
+C1150,Magpie Bakery,Newtown,NSW,Cafe,2019-10-10,10000,Hannah Lee
+C1151,Quarry Deli,Mount Barker,SA,Restaurant,2021-09-22,20000,Tom Walsh
+C1152,Fig Espresso,Subiaco,WA,Cafe,2024-07-02,20000,Hannah Lee
+C1153,Morning Bistro,Prospect,SA,Restaurant,2023-02-02,5000,Grace Okafor
+C1154,Little Roasters,Subiaco,WA,Cafe,2019-02-24,2000,Hannah Lee
+C1155,Red Gum Deli,Perth,WA,Restaurant,2020-09-02,20000,Hannah Lee
+C1156,Olive Co-working,Ballarat,VIC,Office,2021-05-13,2000,Leo Marchetti
+C1157,Magpie Cafe,Glenelg,SA,Cafe,2020-07-30,5000,Grace Okafor
+C1158,Salt Co-working,Geelong,VIC,Office,2022-03-30,10000,Leo Marchetti
+C1159,Pepper Hotel,Perth,WA,Hotel,2019-06-24,5000,Hannah Lee
+C1160,Wattle Diner,Sydney,NSW,Restaurant,2023-08-01,5000,Leo Marchetti
+C1161,Wattle Bakery,Victor Harbor,SA,Cafe,2024-09-10,5000,Grace Okafor
+C1162,Pepper Roasters,Mount Barker,SA,Cafe,2021-05-24,5000,Tom Walsh
+C1163,Pepper Cafe,Perth,WA,Cafe,2019-02-04,20000,Hannah Lee
+C1164,Paper Cafe,Victor Harbor,SA,Cafe,2023-09-17,5000,Tom Walsh
+C1165,Magpie Bistro,Melbourne,VIC,Restaurant,2024-08-24,20000,Leo Marchetti
+C1166,Little Hotel,Stirling,SA,Hotel,2022-02-19,5000,Grace Okafor
+C1167,Ember Hotel,Unley,SA,Hotel,2019-11-23,5000,Tom Walsh
+C1168,Corner Bakery,Melbourne,VIC,Cafe,2019-07-14,5000,Leo Marchetti
+C1169,Kettle Canteen,Wollongong,NSW,Office,2019-09-17,5000,Leo Marchetti
+C1170,Olive Bistro,Fitzroy,VIC,Restaurant,2019-12-19,10000,Leo Marchetti
+C1171,Brass Espresso,Victor Harbor,SA,Cafe,2019-07-05,10000,Tom Walsh
+C1172,Copper Bistro,Sydney,NSW,Restaurant,2024-05-11,20000,Hannah Lee
+C1173,Wattle Canteen,Geelong,VIC,Office,2024-09-19,5000,Leo Marchetti
+C1174,Red Gum Cafe,Melbourne,VIC,Cafe,2024-07-28,10000,Leo Marchetti
+C1175,Salt Hotel,Norwood,SA,Hotel,2020-08-19,5000,Tom Walsh
+C1176,North Diner,Geelong,VIC,Restaurant,2023-08-06,20000,Leo Marchetti
+C1177,Juniper Bistro,Brunswick,VIC,Restaurant,2020-09-23,10000,Leo Marchetti
+C1178,Harbour Co-working,Perth,WA,Office,2019-02-16,5000,Hannah Lee
+C1179,Stone Espresso,Fremantle,WA,Cafe,2023-06-15,5000,Hannah Lee
+C1180,Stone Co-working,Mount Barker,SA,Office,2020-09-15,10000,Priya Nair
